@@ -1,0 +1,4 @@
+# The Data Podcast
+Welcome to The Data Podcast by Stan Chen! As a busy professional, I know how valuable your time is. That's why I've created this podcast series specifically for you. In each episode, I'll be sharing concise, summarized insights and ideas from my experiences as a data engineer. My goal is to help you quickly grasp complex concepts and ideas that might otherwise take much longer to understand. Whether you're looking to stay up-to-date on the latest platform and product developments or just want to expand your knowledge of the field, The Data Podcast has you covered. So join me as we explore the exciting world of data together!
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/2cNinYqGElsfnrmYviziJD?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
